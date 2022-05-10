@@ -1,2 +1,2 @@
-# HTML-CSS
-HTML / CSS study
+# Font Study
+JavaScript / HTML / CSS study
